@@ -1,7 +1,3 @@
-"""
-    main.py
-"""
-
 from square_approx import RootMeanSquareApproximation
 
 

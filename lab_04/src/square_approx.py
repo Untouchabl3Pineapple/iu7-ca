@@ -1,7 +1,3 @@
-"""
-    square_approx.py
-"""
-
 from random import randint
 import matplotlib.pyplot as plt
 from copy import deepcopy
